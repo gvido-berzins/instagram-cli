@@ -144,3 +144,4 @@ cython_debug/
 **/*.mp4
 **/trash
 trash
+to_post/stories
